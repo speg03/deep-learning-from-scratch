@@ -3,3 +3,7 @@
 *.gz
 *.pyc
 __pycache__/
+
+.ipynb_checkpoints/
+.python-version
+dataset/mnist.pkl
